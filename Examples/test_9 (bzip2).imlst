@@ -1,0 +1,3 @@
+// Needs IB >= 5.5
+
+\test_9 (bzip2)\sdc.full image.imlst

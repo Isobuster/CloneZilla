@@ -1,0 +1,6 @@
+// Needs IB >= 5.5
+
+// IB 5.4 still requires an extra virtual file to help with GZip that doesn't have the right extension:   \\*\.gz:0:0||sdc3.ntfs-img.aa||sdc3.ntfs-img.ab||sdc3.ntfs-img.ac||sdc3.ntfs-img.ad||sdc3.ntfs-img.ae||sdc3.ntfs-img.af||sdc3.ntfs-img.ag||sdc3.ntfs-img.ah
+
+// IB 5.5 understands prefix: "\\#\gz()"
+\\#\gz()sdc3.ntfs-img.aa||sdc3.ntfs-img.ab||sdc3.ntfs-img.ac||sdc3.ntfs-img.ad||sdc3.ntfs-img.ae||sdc3.ntfs-img.af||sdc3.ntfs-img.ag||sdc3.ntfs-img.ah

@@ -1,0 +1,12 @@
+// Needs IB >= 5.5
+
+\\#\img(,,-1)sdc-gpt-1st
+
+// Filler not needed when first part is img(,,-1)
+// \\*\.dsk:1031168:0xF0
+
+\\#\img()sdc1.ntfs-ptcl-img.gz
+\\#\img()sdc2.dd-ptcl-img.gz
+\\#\img()sdc3.xfs-ptcl-img.gz
+\\#\img()sdc4.f2fs-ptcl-img.gz
+\\#\img()sdc5.exfat-ptcl-img.gz

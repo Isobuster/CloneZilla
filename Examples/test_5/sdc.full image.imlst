@@ -1,0 +1,22 @@
+// Needs IB >= 5.5
+
+// Use -1 for size, to try and auto-detect the size based on MBR/GPT/Partitioning
+\\#\img(,,-1)sdc-gpt-1st
+
+// Not necessary if the *first* (MBR/GPT) part of the MultiFileName is "\\#\img(,,-1)"-prefixed (-1 for the size) and contains a valid structure to determine its size
+// \\*\FILLER:1031168:0xDD
+
+
+\\#\img()<<sdc1.vfat-ptcl-img.gz.aa|sdc1.vfat-ptcl-img.gz.ab|sdc1.vfat-ptcl-img.gz.ac>>
+
+\\#\img()<<sdc2.exfat-ptcl-img.gz.aa|sdc2.exfat-ptcl-img.gz.ab>>
+
+\\#\img()<<sdc3.ntfs-ptcl-img.gz.aa|sdc3.ntfs-ptcl-img.gz.ab|sdc3.ntfs-ptcl-img.gz.ac|sdc3.ntfs-ptcl-img.gz.ad|sdc3.ntfs-ptcl-img.gz.ae|sdc3.ntfs-ptcl-img.gz.af|sdc3.ntfs-ptcl-img.gz.ag|sdc3.ntfs-ptcl-img.gz.ah>>
+
+
+
+// The backup GPT appears to be empty (so basically it's useless)
+
+\\*\Filler up to backup -BUT EMPTY- GPT:245760:0x55
+
+sdc-gpt-2nd

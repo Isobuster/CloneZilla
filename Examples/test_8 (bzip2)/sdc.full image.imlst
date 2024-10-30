@@ -1,0 +1,11 @@
+// Needs IB >= 5.5
+
+sdc-gpt-1st
+
+\\*\FILLER.dsk:1031168:0xAB
+
+sdc1.dd-ptcl-img.bz2
+sdc2.dd-ptcl-img.bz2
+sdc3.dd-ptcl-img.bz2
+sdc4.dd-ptcl-img.bz2
+sdc5.dd-ptcl-img.bz2

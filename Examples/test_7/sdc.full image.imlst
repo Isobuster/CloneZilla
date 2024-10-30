@@ -1,0 +1,11 @@
+// Needs IB >= 5.5
+
+sdc-gpt-1st
+
+\\*\FILLER:1031168:0xCC
+
+\\#\img()sdc1.gz.aa||||sdc1.gz.ab||||sdc1.gz.ac 
+
+\\#\img()<sdc2.dd-ptcl-img.gz.aa||sdc2.dd-ptcl-img.gz.ab>
+
+\\#\img()<sdc3.gz.aa>

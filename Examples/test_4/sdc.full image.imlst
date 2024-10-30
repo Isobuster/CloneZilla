@@ -1,0 +1,11 @@
+sdc-gpt-1st
+
+\\*\Virtual filler between sdc-gpt-1st and the first partition:1031168:0x00
+
+// -> PartImage
+\\#\img()sdc1.aa.gz
+
+\\#\img()sdc2.dd-ptcl-img.gz
+
+// -> PartImage
+\\#\img()\\#\gz()sdc3.aa

@@ -1,0 +1,11 @@
+// Needs IB >= 5.5
+
+sdc-gpt-1st
+
+\\*\FILLER:1031168:0xF3
+
+\\#\img()sdc1.aa.gz
+
+\\#\img(,0)sdc2.dd-ptcl-img.gz
+
+\\#\img(0)\\#\zl()sdc3.ntfs-img.aa

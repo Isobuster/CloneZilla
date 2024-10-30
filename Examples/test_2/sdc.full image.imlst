@@ -1,0 +1,9 @@
+// Needs IB >= 5.5
+
+sdc-gpt-1st
+
+\\*\FILLER.dsk:1031168:0x00
+
+\\#\img()sdc1.vfat-ptcl-img.gz
+\\#\img()sdc2.exfat-ptcl-img.gz
+\\#\img()sdc3.ntfs-ptcl-img.gz

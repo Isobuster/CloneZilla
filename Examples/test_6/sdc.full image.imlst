@@ -1,0 +1,13 @@
+// Needs IB >= 5.5
+
+sdc-gpt-1st
+
+\\*\FILLER:1031168:0xCC
+
+\\#\img()\\#\gz()sdc1.aa||||sdc1.ab||||sdc1.ac
+
+\\#\img()sdc2.dd-ptcl-img.gz.aa||||sdc2.dd-ptcl-img.gz.ab
+
+// Nested example:
+\\#\img()<sdc3.ntfs-img.imlst>
+
